@@ -1,4 +1,3 @@
-
 # Competição de Puns
 
 Projeto de Aprendizado de Máquina para detecção automática de trocadilhos em textos escritos em português.
